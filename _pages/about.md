@@ -31,6 +31,6 @@ My research focuses on developing and applying density functional theory (DFT) s
 <h5>Bio</h5>
 I am an Assistant Professor at Department of Physics at Auburn University. Before joining AU, I was a Postdoctoral Scholar at University of California, Irvine, advised by Prof. Ruqian Wu. I obtained my Ph.D. in Materials Science and Engineering at University of Utah in 2021, advised by Prof. Feng Liu. I obtained my B.S. in Applied Physics at University of Science and Technology of China (USTC) in 2016.
 
-<h5>Hobbies</h5>
+<h5>Other Interests</h5>
 <p>Tennis (3.0), Violin, The Legend of Zelda</p>
 <p>Favorite players: Lionel Messi, Carlos Alcaraz</p>
