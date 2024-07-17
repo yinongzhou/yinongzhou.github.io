@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper has been accepted by <b>Physical Review B</b>: Higher-dimensional spin selectivity in chiral crystals
-
+Our paper has been accepted by <b>Physical Review B</b>: <a href='https://pubs.acs.org/doi/10.1021/acs.chemrev.3c00661'>Higher-dimensional spin selectivity in chiral crystals</a>
