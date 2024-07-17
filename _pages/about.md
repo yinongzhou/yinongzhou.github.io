@@ -13,8 +13,6 @@ profile:
     <a href='https://scholar.google.com/citations?user=-Pz-7TQAAAAJ&hl=en'>Google Scholar</a>
 
 news: true # includes a list of news items
-[comment]: <> (selected_papers: true # includes a list of papers marked as "selected={true}")
-[comment]: <> (social: true # includes social icons at the bottom of the page)
 ---
 
 <p>I am starting as an Assistant Professor at Auburn University in Fall 2024!</p>
