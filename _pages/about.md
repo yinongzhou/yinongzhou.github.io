@@ -9,26 +9,26 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <a>Email: yinonz1@uci.edu</a>
+    <a>Email: yinonz1 AT uci DOT edu</a>
     <a href='https://scholar.google.com/citations?user=-Pz-7TQAAAAJ&hl=en'>Google Scholar</a>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+[comment]: <> (selected_papers: true # includes a list of papers marked as "selected={true}")
+[comment]: <> (social: true # includes social icons at the bottom of the page)
 ---
 
-I am starting as an Assistant Professor at Auburn University in Fall 2024!
-I am recruiting PhD students and Postdocs!
+<p>I am starting as an Assistant Professor at Auburn University in Fall 2024!</p>
+<p>I am recruiting PhD students and Postdocs!</p>
 
-<p>Research Interests</p>
+<h4>Research Interests</h4>
 My research focuses on developing and applying density functional theory (DFT) simulations coupled with theoretical models to design and predict diverse nanomaterials and quantum materials, and reveal their novel electronic, topological, magnetic, optical, and phononic properties.
 
-<p>Bio</p>
-Beginning 08/2024 Assistant Professor, Auburn University
-09/2021-07/2024 Postdoc, Physics and Astronomy, University of California, Irvine
-08/2016-08/2021 Ph.D., Materials Science and Engineering, University of Utah
-09/2012-06/2016 B.S., Applied Physics, University of Science and Technology of China (USTC) 
+<h4>Bio</h4>
+<p>Beginning 08/2024 Assistant Professor, Auburn University</p>
+<p>09/2021-07/2024 Postdoc, Physics and Astronomy, University of California, Irvine</p>
+<p>08/2016-08/2021 Ph.D., Materials Science and Engineering, University of Utah</p>
+<p>09/2012-06/2016 B.S., Applied Physics, University of Science and Technology of China (USTC)</p>
 
-<p>Hobbies</p>
-Tennis (3.0), Violin, The Legend of Zelda
-Favorite players: Lionel Messi, Carlos Alcaraz
+<h4>Hobbies</h4>
+<p>Tennis (3.0), Violin, The Legend of Zelda</p>
+<p>Favorite players: Lionel Messi, Carlos Alcaraz</p>
