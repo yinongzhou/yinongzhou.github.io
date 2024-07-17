@@ -18,7 +18,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 <p>I am starting as an Assistant Professor at <a href='https://www.auburn.edu'>Auburn University</a> in Fall 2024!</p>
-<p>I am recruiting PhD students and Postdocs! </p>
+<p>I am recruiting PhD students/Postdocs with funding! </p>
 
 <h5>Research Interests</h5>
 My research focuses on developing and applying density functional theory (DFT) simulations coupled with theoretical models to design and predict diverse nanomaterials and quantum materials and reveal their novel electronic, topological, magnetic, optical, and phononic properties.
