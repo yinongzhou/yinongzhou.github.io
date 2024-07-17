@@ -8,4 +8,4 @@ nav_order: 3
 ---
 
 <h4>Fall 2024</h4>
-PHYS 5500/6500 Fundamentals of Physics
+PHYS 5500/6500 Fundamentals of Physics: Math Methods
