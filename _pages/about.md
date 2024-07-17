@@ -2,19 +2,19 @@
 layout: about
 title: 
 permalink: /
-subtitle: <a href='https://www.auburn.edu/cosam/departments/physics/index.htm'>Department of Physics</a>. <a href='https://www.auburn.edu'>Auburn University</a>.
+subtitle: <a href='https://www.auburn.edu/cosam/departments/physics/index.htm'>Department of Physics | </a><a href='https://www.auburn.edu'>Auburn University</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <a>Email: yinonz1 AT uci DOT edu</a>
-    <a href='https://scholar.google.com/citations?user=-Pz-7TQAAAAJ&hl=en'>Google Scholar</a>
+    <p>Email: yinonz1@uci.edu</p>
+    <p><a href='https://scholar.google.com/citations?user=-Pz-7TQAAAAJ&hl=en'>Google Scholar</a></p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 <p>I am starting as an Assistant Professor at Auburn University in Fall 2024!</p>
