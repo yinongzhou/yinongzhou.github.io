@@ -177,7 +177,7 @@ ul.task-list input[type="checkbox"] {
 
 .citation,
 .citation-number {
-  color: var(--global-citation-color);
+  color: var(--global-theme-color);
 }
 
 // Profile
@@ -689,7 +689,7 @@ footer.sticky-bottom {
 
         abbr {
           display: inline-block;
-          background-color: var(--global-theme-color);
+          background-color: var(--global-citation-color);
           margin-bottom: 0.5rem;
 
           a {
