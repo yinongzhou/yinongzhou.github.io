@@ -2,7 +2,7 @@
 layout: about
 title: 
 permalink: /
-subtitle: <a href='https://www.auburn.edu'>Auburn University</a>. Department of Physics.
+subtitle: <a href='https://www.auburn.edu/cosam/departments/physics/index.htm'>Department of Physics</a>. <a href='https://www.auburn.edu'>Auburn University</a>.
 
 profile:
   align: right
@@ -22,8 +22,8 @@ news: true # includes a list of news items
 My research focuses on developing and applying density functional theory (DFT) simulations coupled with theoretical models to design and predict diverse nanomaterials and quantum materials, and reveal their novel electronic, topological, magnetic, optical, and phononic properties.
 
 <h4>Bio</h4>
-<p>Beginning 08/2024 Assistant Professor, Auburn University</p>
-<p>09/2021-07/2024 Postdoc, Physics and Astronomy, University of California, Irvine</p>
+<p>Beginning 08/2024 Assistant Professor, Department of Physics, Auburn University</p>
+<p>09/2021-07/2024 Postdoctoral Scholar, Department of Physics and Astronomy, University of California, Irvine</p>
 <p>08/2016-08/2021 Ph.D., Materials Science and Engineering, University of Utah</p>
 <p>09/2012-06/2016 B.S., Applied Physics, University of Science and Technology of China (USTC)</p>
 
