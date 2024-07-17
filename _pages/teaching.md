@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Course list.
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 <h4>Fall 2024</h4>
