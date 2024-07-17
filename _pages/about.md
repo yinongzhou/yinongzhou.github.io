@@ -9,6 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Yinong Zhou</p>
+    <p>Assistant Professor</p>
+    <p>Leach Science Center</p>
+    <p>380 Duncan Drive</p>
+    <p>Physics Department</p>
+    <p>Auburn University</p>
+    <p>Auburn, AL 36849</p>
     <p>Email: yinonz1@uci.edu</p>
     <p><a href='https://scholar.google.com/citations?user=-Pz-7TQAAAAJ&hl=en'>Google Scholar</a></p>
 
