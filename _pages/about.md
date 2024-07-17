@@ -2,7 +2,7 @@
 layout: about
 title: 
 permalink: /
-subtitle: <a href='https://www.auburn.edu/cosam/departments/physics/index.htm'>Department of Physics </a> | <a href='https://www.auburn.edu'>Auburn University</a>
+subtitle: <a href='https://www.auburn.edu/cosam/departments/physics/index.htm'>Department of Physics</a> | <a href='https://www.auburn.edu'>Auburn University</a>
 
 profile:
   align: right
@@ -24,8 +24,8 @@ social: false # includes social icons at the bottom of the page
 My research focuses on developing and applying density functional theory (DFT) simulations coupled with theoretical models to design and predict diverse nanomaterials and quantum materials and reveal their novel electronic, topological, magnetic, optical, and phononic properties.
 
 <h5>Bio</h5>
-I am an Assistant Professor at Department of Physics at Auburn University. Before joining AU, I was a Postdoctoral Scholar at University of California, Irvine, advised by Prof. Ruqian Wu. I obtained my Ph.D. in Materials Science and Engineering at University of Utah in 2021, advised by Prof. Feng Liu. I obtained my B.S. in Applied Physics at University of Science and Technology of China (USTC) in 2016.
+I am an Assistant Professor at <a href='https://www.auburn.edu/cosam/departments/physics/index.htm'>Department of Physics</a> at <a href='https://www.auburn.edu'>Auburn University</a>. Before joining AU, I was a Postdoctoral Scholar at <a href='https://uci.edu'>University of California, Irvine</a>, advised by <a href='https://www.physics.uci.edu/wugroup/people.html'>Prof. Ruqian Wu</a>. I obtained my Ph.D. in Materials Science and Engineering at <a href='https://www.utah.edu'>University of Utah</a> in 2021, advised by <a href='https://my.eng.utah.edu/~fliu/index.html'>Prof. Feng Liu</a>. I obtained my B.S. in Applied Physics at <a href='http://en.ustc.edu.cn'>University of Science and Technology of China (USTC)</a> in 2016.
 
 <h5>Other Interests</h5>
 <p>Tennis (3.0), Violin, Zelda</p>
-<p>Favorite players: Lionel Messi, Carlos Alcaraz</p>
+<p>Favorite players: <a href='https://en.wikipedia.org/wiki/Lionel_Messi'>Lionel Messi</a>, <a href='https://en.wikipedia.org/wiki/Carlos_Alcaraz'>Carlos Alcaraz</a></p>
