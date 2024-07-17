@@ -2,7 +2,7 @@
 layout: about
 title: 
 permalink: /
-subtitle: <a href='https://www.auburn.edu/cosam/departments/physics/index.htm'>Department of Physics | </a><a href='https://www.auburn.edu'>Auburn University</a>.
+subtitle: <a href='https://www.auburn.edu/cosam/departments/physics/index.htm'>Department of Physics </a> | <a href='https://www.auburn.edu'>Auburn University</a>
 
 profile:
   align: right
@@ -21,13 +21,10 @@ social: true # includes social icons at the bottom of the page
 <p>I am recruiting PhD students and Postdocs!</p>
 
 <h4>Research Interests</h4>
-My research focuses on developing and applying density functional theory (DFT) simulations coupled with theoretical models to design and predict diverse nanomaterials and quantum materials, and reveal their novel electronic, topological, magnetic, optical, and phononic properties.
+My research focuses on developing and applying density functional theory (DFT) simulations coupled with theoretical models to design and predict diverse nanomaterials and quantum materials and reveal their novel electronic, topological, magnetic, optical, and phononic properties.
 
 <h4>Bio</h4>
-<p>Beginning 08/2024 Assistant Professor, Department of Physics, Auburn University</p>
-<p>09/2021-07/2024 Postdoctoral Scholar, Department of Physics and Astronomy, University of California, Irvine</p>
-<p>08/2016-08/2021 Ph.D., Materials Science and Engineering, University of Utah</p>
-<p>09/2012-06/2016 B.S., Applied Physics, University of Science and Technology of China (USTC)</p>
+I am an Assistant Professor at Department of Physics at Auburn University. Before joining AU, I was a Postdoctoral Scholar at University of California, Irvine, advised by Prof. Ruqian Wu. I obtained my Ph.D. in Materials Science and Engineering at University of Utah in 2021 and B.S. in Applied Physics at University of Science and Technology of China (USTC) in 2016.
 
 <h4>Hobbies</h4>
 <p>Tennis (3.0), Violin, The Legend of Zelda</p>
