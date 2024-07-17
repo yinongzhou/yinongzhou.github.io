@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting as an Assistant Professor at Auburn University!
+Started as an Assistant Professor at Auburn University!
