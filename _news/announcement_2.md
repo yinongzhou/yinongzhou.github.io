@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper has been published by Nature Materials: Exceptional electronic transport and quantum oscillations in thin bismuth crystals grown inside van der Waals materials
+Our paper has been published in <b>Nature Materials</b>: Exceptional electronic transport and quantum oscillations in thin bismuth crystals grown inside van der Waals materials
