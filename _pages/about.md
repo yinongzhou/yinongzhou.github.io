@@ -12,7 +12,7 @@ profile:
     <p><b>Email:</b> yinonz1@uci.edu</p>
     <p><a href='https://scholar.google.com/citations?user=-Pz-7TQAAAAJ&hl=en'><b>Google Scholar</b></a></p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
@@ -29,23 +29,3 @@ I am an Assistant Professor at <a href='https://www.auburn.edu/cosam/departments
 <h5><b>Other Interests</b></h5>
 <p>Tennis (3.0), Violin, Zelda</p>
 <p>Favorite players: Lionel Messi, Carlos Alcaraz</p>
-
-<body>
-    <h3>News</h3>
-    <table class="announcements-table">
-        <tbody>
-            <tr>
-                <td>2024-07-09</td>
-                <td>Our paper has been accepted by <b>Physical Review B</b>: Higher-dimensional spin selectivity in chiral crystals</td>
-            </tr>
-            <tr>
-                <td>2024-03-13</td>
-                <td>Our paper has been published in <b>Nature Materials</b>: <a href='https://www.nature.com/articles/s41563-024-01894-0'>Exceptional electronic transport and quantum oscillations in thin bismuth crystals grown inside van der Waals materials</a></td>
-            </tr>
-            <tr>
-                <td>2024-01-06</td>
-                <td>Our paper has been published in <b>Nature Communications</b>: <a href='https://www.nature.com/articles/s41467-023-44547-7'>Controllable strain-driven topological phase transition and dominant surface-state transport in HfTe5</a></td>
-            </tr>
-        </tbody>
-    </table>
-</body>
