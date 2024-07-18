@@ -33,12 +33,6 @@ I am an Assistant Professor at <a href='https://www.auburn.edu/cosam/departments
 <body>
     <h3>News</h3>
     <table class="announcements-table">
-        <thead>
-            <tr>
-                <th>Date</th>
-                <th>Announcement</th>
-            </tr>
-        </thead>
         <tbody>
             <tr>
                 <td>2024-07-09</td>
