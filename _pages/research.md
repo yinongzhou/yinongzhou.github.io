@@ -21,7 +21,7 @@ nav_order: 1
     <li>M. Pan*, X. Zhang*, Y. Zhou*, P. Wang*, et al., F. Liu “Growth of Mesoscale Ordered Two-Dimensional Hydrogen-Bond Organic Framework with the Observation of Flat Band.” Phys. Rev. Lett. 130.3: 036203, Editor’s Suggestion, (2023).</li>
 </ul>
 
-<h4><b>Dirac band materials</b>b></h4>
+<h4><b>Dirac band materials</b></h4>
 <ul>
     <li>Dirac Mott Insulators</li>
     <li>Higher-order topological insulators in Kekulé nanostructures</li>
