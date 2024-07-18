@@ -9,7 +9,7 @@ nav_order: 1
 <hr>
 <h3>Topological Materials</h3>
 <h4>Topological flat band</h4>
-</ul>
+<ul>
 <li>An important question that often intrigues condensed matter physicists is whether the quantum Hall effects on Landau levels can be generalized to Bloch bands in the absence of an external magnetic field? The topological flat band is just like a counterpart of the Landau levels, characterized by a Chern number. The dispersionless topological flat band, which arises from the destructive interference of Bloch wavefunctions, magnifies any finite electron-electron interaction due to the complete quenching of electronic kinetic energy. We We are interested in studying the intriguing properties of the flat-band materials.</li>
 </ul>
 <h5>Related Publications</h5>
