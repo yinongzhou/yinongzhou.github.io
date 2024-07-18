@@ -12,7 +12,7 @@ profile:
     <p><b>Email:</b> yinonz1@uci.edu</p>
     <p><a href='https://scholar.google.com/citations?user=-Pz-7TQAAAAJ&hl=en'><b>Google Scholar</b></a></p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
