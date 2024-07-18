@@ -20,7 +20,7 @@ An important question that often intrigues condensed matter physicists is whethe
 </ul>
 
 <h5 style="color: #0c2340;"><b>Dirac band materials</b></h5>
-Dirac Mott Insulators and Higher-order topological insulators in Kekulé nanostructures
+Dirac Mott Insulators; Higher-order topological insulators in Kekulé nanostructures
 <h6 style="color: #e87722;">Related Publications</h6>
 <ul>
     <li>Y. Zhou, and F. Liu, “Realization of an Antiferromagnetic Superatomic Graphene: Dirac Mott Insulator and Circular Dichroism Hall Effect.” Nano Lett. 21.1: 230-235 (2021).</li>
