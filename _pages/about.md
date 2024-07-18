@@ -29,3 +29,29 @@ I am an Assistant Professor at <a href='https://www.auburn.edu/cosam/departments
 <h5><b>Other Interests</b></h5>
 <p>Tennis (3.0), Violin, Zelda</p>
 <p>Favorite players: Lionel Messi, Carlos Alcaraz</p>
+
+<body>
+    <h3>News</h3>
+    <table class="announcements-table">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Announcement</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2024-07-09</td>
+                <td>Our paper has been accepted by <b>Physical Review B</b>: Higher-dimensional spin selectivity in chiral crystals</td>
+            </tr>
+            <tr>
+                <td>2024-03-13</td>
+                <td>Our paper has been published in <b>Nature Materials</b>: <a href='https://www.nature.com/articles/s41563-024-01894-0'>Exceptional electronic transport and quantum oscillations in thin bismuth crystals grown inside van der Waals materials</a></td>
+            </tr>
+            <tr>
+                <td>2024-01-06</td>
+                <td>Our paper has been published in <b>Nature Communications</b>: <a href='https://www.nature.com/articles/s41467-023-44547-7'>Controllable strain-driven topological phase transition and dominant surface-state transport in HfTe5</a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
