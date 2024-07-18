@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 1
 ---
-
+<hr>
 <h3>Topological Materials</h3>
 <h4>Topological flat band</h4>
 </ul>
@@ -42,6 +42,7 @@ nav_order: 1
     <li>J. Liu*, Y. Zhou*, et al., R. Wu, and L. A. Jauregui “Controllable strain-driven topological phase transition and dominant surface-state transport in HfTe5.” Nat. Commun. 15, 332 (2024).</li>
 </ul>
 
+<hr>
 <h3>Chiral Materials</h3>
 <ul>
 <li>Chiral structures, found in abundance in nature, range from the spirals of galaxies to the molecular foundations of life. Chiral materials can exist on various scales, encompassing not only molecules but also larger structures, including specific chiral crystals. In crystalline structures, geometric chirality-induced screw symmetry leads to unique optical, magnetic, and electronic properties, such as magneto-chiral dichroism, magnetic skyrmions, and electrical magnetochiral anisotropy, paving the way for diverse applications in optics, spintronics, electronics, catalysis, and beyond. Recently, we studied the chiral-induced spin selectivity (CISS) effect and thermochromic behavior of chiral crystals.</li>
@@ -52,6 +53,7 @@ nav_order: 1
     <li>Y. Zhou, D.L.M. Cordova, G.M. Milligan, M.Q. Arguilla, and R. Wu, “Higher-dimensional spin selectivity in chiral crystals.” Under review, arXiv:2305.18637 (2023).</li>
 </ul>
 
+<hr>
 <h3>Superconductors</h3>
 <ul>
 <li>Superconductivity, a fascinating quantum phenomenon characterized by zero electrical resistance and the Meissner effect, is an area where continuous efforts are made to elevate the critical temperature (Tc). Our goal is to investigate the mechanisms and novel superconductors with high Tc. Recently, we are interested in the unanticipated enhancement of superconductivity observed at metal oxide interfaces.</li>
@@ -62,11 +64,13 @@ nav_order: 1
     <li>Y. An, J. Chen, Y. Yan, J. Wang, Y. Zhou, et al., R. Wu, and W. Liu "Higher-order Topological and Nodal Superconductors MS (M= Nb and Ta) Transition-metal Sulfides.” Phys. Rev. B. 108.5: 054519 (2023).</li>
 </ul>
 
+<hr>
 <h3>Machine Learning</h3>
 <ul>
 <li>To search for functional materials with intriguing properties, we are turning to the power of machine learning, which can significantly expedite the process of uncovering new materials from vast databases. Utilizing and developing optimization algorithms and effective inverse learning procedures, we plan to pursue the capability of predicting novel material candidates with unique properties.</li>
 </ul>
 
+<hr>
 <h3>Catalysis</h3>
 <ul>
 <li>To search for functional materials with intriguing properties, we are turning to the power of machine learning, which can significantly expedite the process of uncovering new materials from vast databases. Utilizing and developing optimization algorithms and effective inverse learning procedures, we plan to pursue the capability of predicting novel material candidates with unique properties.</li>
