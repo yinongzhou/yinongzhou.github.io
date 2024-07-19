@@ -59,7 +59,7 @@ To search for functional materials with intriguing properties, we are turning to
 
 <hr>
 <h3><b>Catalysis</b></h3>
-To search for functional materials with intriguing properties, we are turning to the power of machine learning, which can significantly expedite the process of uncovering new materials from vast databases. Utilizing and developing optimization algorithms and effective inverse learning procedures, we plan to pursue the capability of predicting novel material candidates with unique properties.
+Confined catalysis occurs between graphene and the metal surfaces, demonstrating that graphene-covered Ni is an appealing, effective, stable, and economical catalytic platform for the hydrogen evolution reaction.
 <h6 style="color: #e87722;">Related Publications</h6>
 <ul>
     <li>Y. Zhou, W. Chen, P. Cui, J. Zeng, Z. Lin, E. Kaxiras, and Z. Zhang, “Enhancing the hydrogen activation reactivity of nonprecious metal substrates via confined catalysis underneath graphene.” Nano Lett. 16.10: 6058-6063 (2016).</li>
