@@ -9,7 +9,7 @@ nav_order: 1
 <hr>
 <h3><b>Topological Materials</b></h3>
 <h5 style="color: #0c2340;"><b>Topological flat band</b></h5>
-An important question that often intrigues condensed matter physicists is whether the quantum Hall effects on Landau levels can be generalized to Bloch bands in the absence of an external magnetic field? The topological flat band is just like a counterpart of the Landau levels, characterized by a Chern number. The dispersionless topological flat band, which arises from the destructive interference of Bloch wavefunctions, magnifies any finite electron-electron interaction due to the complete quenching of electronic kinetic energy. We are interested in studying the intriguing properties of the flat-band materials.
+An important question that often intrigues condensed matter physicists is whether the quantum Hall effects on Landau levels can be generalized to Bloch bands in the absence of an external magnetic field. The topological flat band is just like a counterpart of the Landau levels, characterized by a Chern number. The dispersionless topological flat band, which arises from the destructive interference of Bloch wavefunctions, magnifies any finite electron-electron interaction due to the complete quenching of electronic kinetic energy. We are interested in studying the intriguing properties of the flat-band materials.
 <h6 style="color: #e87722;">Related Publications</h6>
 <ul>
     <li>Y. Zhou, K.-H. Jin, H. Huang, Z. Wang, F. Liu, Weyl points created by a three-dimensional flat band. Physical Review B 99, 201105 (2019).
