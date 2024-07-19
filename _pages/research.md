@@ -8,7 +8,7 @@ nav_order: 1
 ---
 <hr>
 <h3><b>Topological Materials</b></h3>
-<h5 style="color: #0c2340;"><b>Topological flat band</b></h5>
+<h5 style="color: #0c2340;"><b>Topological Flat Band</b></h5>
 An important question that often intrigues condensed matter physicists is whether the quantum Hall effects on Landau levels can be generalized to Bloch bands in the absence of an external magnetic field. The topological flat band is just like a counterpart of the Landau levels, characterized by a Chern number. The dispersionless topological flat band, which arises from the destructive interference of Bloch wavefunctions, magnifies any finite electron-electron interaction due to the complete quenching of electronic kinetic energy. We are interested in studying the intriguing properties of the flat-band materials.
 <h6 style="color: #e87722;">Related Publications</h6>
 <ul>
@@ -19,7 +19,7 @@ An important question that often intrigues condensed matter physicists is whethe
     <li>M. Pan*, X. Zhang*, Y. Zhou*, P. Wang*, et al., F. Liu “Growth of Mesoscale Ordered Two-Dimensional Hydrogen-Bond Organic Framework with the Observation of Flat Band.” Phys. Rev. Lett. 130.3: 036203, Editor’s Suggestion, (2023).</li>
 </ul>
 
-<h5 style="color: #0c2340;"><b>Dirac band materials</b></h5>
+<h5 style="color: #0c2340;"><b>Dirac Band Materials</b></h5>
 Dirac Mott Insulators; Higher-order topological insulators in Kekulé nanostructures
 <h6 style="color: #e87722;">Related Publications</h6>
 <ul>
@@ -27,7 +27,7 @@ Dirac Mott Insulators; Higher-order topological insulators in Kekulé nanostruct
     <li>Y. Zhou, and R. Wu. “Remote control of spin polarization of topological corner states.” Phys. Rev. B. 107.3: 035412 (2023).</li>
 </ul>
 
-<h5 style="color: #0c2340;"><b>Topological phase transitions</b></h5>
+<h5 style="color: #0c2340;"><b>Topological Phase Transitions</b></h5>
 Topological phase transition induced by strain, magnetic, or electric field.
 <h6 style="color: #e87722;">Related Publications</h6>
 <ul>
