@@ -41,7 +41,7 @@ Chiral structures, found in abundance in nature, range from the spirals of galax
 <h6 style="color: #e87722;">Related Publications</h6>
 <ul>
     <li>D.L. Cordova, Y. Zhou, et al., M.Q. Arguilla, “Sensitive thermochromic behavior of InSeI, a highly anisotropic and tubular 1D van der Waals Crystal.” Advanced Materials: 2312597 (2023).</li>
-    <li>Y. Zhou, D.L.M. Cordova, G.M. Milligan, M.Q. Arguilla, and R. Wu, “Higher-dimensional spin selectivity in chiral crystals.” Under review, arXiv:2305.18637 (2023).</li>
+    <li>Y. Zhou, D.L.M. Cordova, G.M. Milligan, M.Q. Arguilla, and R. Wu, “Higher-dimensional spin selectivity in chiral crystals.” Phys. Rev. B 110, 045434 (2024).</li>
 </ul>
 
 <hr>
