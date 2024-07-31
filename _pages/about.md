@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><b>Email:</b> yinonz1@uci.edu</p>
+    <p><b>Email:</b> yinong.zhou@auburn.edu</p>
     <p><a href='https://scholar.google.com/citations?user=-Pz-7TQAAAAJ&hl=en'><b>Google Scholar</b></a></p>
 
 news: true # includes a list of news items
