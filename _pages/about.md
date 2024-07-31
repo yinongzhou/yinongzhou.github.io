@@ -10,6 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><b>Email:</b> yinong.zhou@auburn.edu</p>
+    <p><b>Office:</b> Leach Science Center 3138</p>
+    <p><b>Address:</b> 380 Duncan Drive, Auburn, AL 36849</p>
     <p><a href='https://scholar.google.com/citations?user=-Pz-7TQAAAAJ&hl=en'><b>Google Scholar</b></a></p>
 
 news: true # includes a list of news items
