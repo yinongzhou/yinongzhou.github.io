@@ -23,6 +23,7 @@ social: false # includes social icons at the bottom of the page
 
 <h5><b>Research Interests</b></h5>
 My research focuses on developing and applying density functional theory (DFT) simulations coupled with theoretical models to design and predict diverse nanomaterials and quantum materials and reveal their novel electronic, topological, magnetic, optical, and phononic properties.
+
 Visit my <a href='https://scholar.google.com/citations?user=-Pz-7TQAAAAJ&hl=en'><b>Google Scholar</b></a> profile for more details about my research and publications.
 
 <h5><b>Bio</b></h5>
