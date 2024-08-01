@@ -2,7 +2,7 @@
 layout: about
 title: 
 permalink: /
-subtitle: <a href='https://www.auburn.edu/cosam/departments/physics/index.htm'>Department of Physics</a> | <a href='https://www.auburn.edu'>Auburn University</a>
+subtitle: Assistant Professor | <a href='https://www.auburn.edu/cosam/departments/physics/index.htm'>Department of Physics</a> | <a href='https://www.auburn.edu'>Auburn University</a>
 
 profile:
   align: right
