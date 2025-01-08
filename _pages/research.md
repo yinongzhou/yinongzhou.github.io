@@ -51,7 +51,7 @@ Superconductivity, a fascinating quantum phenomenon characterized by zero electr
 <ul>
     <li>X. Zhang, Y. Zhou, B. Cui, M. Zhao, and F. Liu, “Theoretical Discovery of a Superconducting Two-Dimensional Metal−Organic Framework.” Nano Lett. 17.10: 6166–6170 (2017).</li>
     <li>Y. An, J. Chen, Y. Yan, J. Wang, Y. Zhou, et al., R. Wu, and W. Liu "Higher-order Topological and Nodal Superconductors MS (M= Nb and Ta) Transition-metal Sulfides.” Phys. Rev. B. 108.5: 054519 (2023).</li>
-    <li>H. Yang, Y. Zhou, et al., R. Wu, and X. Pan, “Phonon modes and electron-phonon coupling at the FeSe/SrTiO3 interface”, Nature (2024).</li>
+    <li>H. Yang, Y. Zhou, et al., R. Wu, and X. Pan, “Phonon modes and electron-phonon coupling at the FeSe/SrTiO3 interface”, Nature 635, 332–336 (2024).</li>
 </ul>
 
 <hr>
