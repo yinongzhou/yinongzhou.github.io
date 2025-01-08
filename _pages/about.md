@@ -18,7 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<p>I am starting as an Assistant Professor at Auburn University in Fall 2024!</p>
 <p>I am recruiting PhD students and Postdocs! </p>
 
 <h5><b>Research Interests</b></h5>
