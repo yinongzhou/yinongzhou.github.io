@@ -17,4 +17,16 @@ profiles:
     image: 
     content: about_maria.md
     image_circular: false # crops the image to make it circular
+  - align: left
+    image: 
+    content: about_charlotte.md
+    image_circular: false # crops the image to make it circular
+  - align: left
+    image: 
+    content: about_dylan.md
+    image_circular: false # crops the image to make it circular
+  - align: left
+    image: 
+    content: about_will.md
+    image_circular: false # crops the image to make it circular
 ---
