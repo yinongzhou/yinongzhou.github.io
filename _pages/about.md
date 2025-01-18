@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 
+title: Yinong Zhou's Research Group
 permalink: /
 subtitle: Assistant Professor | <a href='https://www.auburn.edu/cosam/departments/physics/index.htm'>Department of Physics</a> | <a href='https://www.auburn.edu'>Auburn University</a>
 
