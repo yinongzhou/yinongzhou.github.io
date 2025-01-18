@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Yinong Zhou # the website title (if blank, full name will be used instead)
+title: Yinong Zhou's Research Group # the website title (if blank, full name will be used instead)
 first_name: Yinong
 middle_name: 
-last_name: Zhou's Research Group
+last_name: Zhou
 email: yinong.zhou@auburn.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Yinong Zhou
