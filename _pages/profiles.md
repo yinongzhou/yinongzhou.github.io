@@ -13,4 +13,8 @@ profiles:
     image: prof_pic.jpg
     content: about_yinong.md
     image_circular: false # crops the image to make it circular
+  - align: left
+    image: 
+    content: about_maria.md
+    image_circular: false # crops the image to make it circular
 ---
