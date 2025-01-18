@@ -14,11 +14,11 @@ profiles:
     content: about_yinong.md
     image_circular: false # crops the image to make it circular
   - align: left
-    image: 
+    image: Maria.jpeg
     content: about_maria.md
     image_circular: false # crops the image to make it circular
   - align: left
-    image: 
+    image: charlotte-brown.jpeg
     content: about_charlotte.md
     image_circular: false # crops the image to make it circular
   - align: left
