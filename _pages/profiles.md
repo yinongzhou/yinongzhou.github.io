@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: Members of Yinong Zhou's Research Group
+description: <h5>Members of Yinong Zhou's Research Group</h5>
 nav: true
 nav_order: 4
 
