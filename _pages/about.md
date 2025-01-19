@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<h5><p>Recruiting PhD students and Postdocs! </p></h5>
+<h5><p>We are recruiting PhD students and Postdocs! </p></h5>
 
 <h5><b>Research Interests</b></h5>
 Our computational condensed matter research group focuses on exploring diverse nanomaterials and quantum materials. We develop and apply density functional theory (DFT) simulations coupled with theoretical models to design and predict novel materials and reveal their novel electronic, topological, magnetic, optical, and phononic properties.
