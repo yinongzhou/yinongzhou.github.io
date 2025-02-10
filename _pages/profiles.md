@@ -22,11 +22,11 @@ profiles:
     content: about_charlotte.md
     image_circular: false # crops the image to make it circular
   - align: left
-    image: 
+    image: Dylan.jpg
     content: about_dylan.md
     image_circular: false # crops the image to make it circular
   - align: left
-    image: 
+    image: Will.jpg
     content: about_will.md
     image_circular: false # crops the image to make it circular
 ---
