@@ -14,7 +14,7 @@ profiles:
     content: about_yinong.md
     image_circular: false # crops the image to make it circular
   - align: left
-    image:
+    image: jatin.jpg
     content: about_jatin.md
     image_circular: false # crops the image to make it circular
   - align: left
