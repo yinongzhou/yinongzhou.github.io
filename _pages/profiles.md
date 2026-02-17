@@ -22,7 +22,7 @@ profiles:
     content: about_maria.md
     image_circular: false # crops the image to make it circular
   - align: left
-    image: justin.jpeg
+    image: justin.jpg
     content: about_justin.md
     image_circular: false # crops the image to make it circular
   - align: left
